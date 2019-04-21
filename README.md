@@ -29,3 +29,7 @@
 - <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>up/down</kbd>: Duplicate line up/down
 - <kbd>shift</kbd> + <kbd>del</kbd>: Delete line
 - <kbd>ctrl</kbd> + <kbd>d</kbd>: Select next instance of selected
+
+## WSL
+
+[Checkout Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
