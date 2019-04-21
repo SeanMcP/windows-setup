@@ -1,5 +1,7 @@
 # Windows setup
 
+> For more general setup in formation, checkout: [https://github.com/seanmcp/.setup]
+
 ## Programs
 - Accountable2You
 - VS Code
