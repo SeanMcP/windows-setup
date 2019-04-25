@@ -8,8 +8,10 @@
 - Notepad++
 - Chrome
 - Firefox Dev Edition
-- Git/Bash: Take your time, and **read the options carefully**. The first time I installed it on the Behemoth, I was unable to navigate through the normal directory.
-- Node
+- Chocolatey
+  - Git/Bash
+  - Node
+  - Yarn
 - Inkscape
 
 ## Keyboard shortcuts
