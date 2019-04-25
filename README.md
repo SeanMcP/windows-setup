@@ -2,6 +2,9 @@
 
 > For more general setup in formation, checkout: [https://github.com/seanmcp/.setup]
 
+## Styles
+- Color (from OneDark): #2d323b
+
 ## Programs
 - Accountable2You
 - VS Code
@@ -13,6 +16,7 @@
   - Node
   - Yarn
 - Inkscape
+- Fira Code
 
 ## Keyboard shortcuts
 ### OS
